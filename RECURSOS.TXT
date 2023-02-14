@@ -1,0 +1,10 @@
+https://www.ecma-international.org/publications-and-standards/standards/ecma-262/
+
+https://github.com/tc39/ecma262#ecmascript
+
+https://developer.mozilla.org/es/docs/Web/JavaScript
+
+
+https://github.com/tc39/proposals/blob/HEAD/finished-proposals.md
+
+EN ESTA ULTIMA URL PODFEMOS VER LAS ULTIMAS MEJORAS DE ESTE LENGUAJE DE PROGRAMACION 
